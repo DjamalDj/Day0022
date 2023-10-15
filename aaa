@@ -13,7 +13,5 @@ cd $PATHTOAPP && cd ..
 PRIVATEKEY=""
 
 RECORD=""
-
-#ZERO
 &Plus
 ^Minus
